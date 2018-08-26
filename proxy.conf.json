@@ -1,0 +1,8 @@
+{
+  "/api/*": {
+    "target": "http://zend-angular.local",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
