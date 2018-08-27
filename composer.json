@@ -1,6 +1,6 @@
 {
     "name": "angular/zendframework",
-    "description": "Skeleton Application for Zend Framework zend-mvc applications",
+    "description": "Angular Zend Framework Skeleton Application",
     "type": "project",
     "license": "BSD-3-Clause",
     "keywords": [
